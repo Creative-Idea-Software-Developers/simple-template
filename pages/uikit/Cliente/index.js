@@ -45,7 +45,7 @@ const Crud = () => {
         setProducts([
             {
                 id: 1,
-                nombre: 'Andres',
+                nombre: 'Franciss',
                 direccion: 'Av. Gamarra 345',
                 gmail: 'demo@gmail.com'
             }

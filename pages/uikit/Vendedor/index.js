@@ -45,7 +45,7 @@ const Crud = () => {
         setProducts([
             {
                 id: 1,
-                nombre: 'Andres',
+                nombre: 'Franciss',
                 puesto: 'Pasillo 2'
             }
         ]);
