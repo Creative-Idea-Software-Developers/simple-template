@@ -1,0 +1,16 @@
+
+{
+    "data": [
+        {"id": "1000","code": "f230fh0g3","name": "Xataka Smart Home","description": "Product Description","image": "monitor.jpg","price": 120,"category": "Computacion e informatica","quantity": 24,"inventoryStatus": "INSTOCK","rating": 5},
+        {"id": "1001","code": "nvklal433","name": "CPU Gamer","description": "Product Description","image": "cpu-gamer.jpg","price": 550,"category": "Computacion e informatica","quantity": 550,"inventoryStatus": "INSTOCK","rating": 4},
+        {"id": "1002","code": "zz21cz3c1","name": "Laptop Gamer","description": "Product Description","image": "laptop1.jpg","price": 2500,"category": "Computacion e informatica","quantity": 2,"inventoryStatus": "LOWSTOCK","rating": 3},
+        {"id": "1003","code": "244wgerg2","name": "Laptop HP Gamer","description": "Product Description","image": "laptop2.jpg","price": 4500,"category": "Computacion e informatica","quantity": 25,"inventoryStatus": "INSTOCK","rating": 5},
+        {"id": "1004","code": "h456wer53","name": "Mouser Gamer","description": "Product Description","image": "mouse.jpg","price": 45,"category": "Computacion e informatica","quantity": 73,"inventoryStatus": "INSTOCK","rating": 4},
+        {"id": "1005","code": "av2231fwg","name": "Parlante Gamer","description": "Product Description","image": "parlantes.jpg","price": 82,"category": "Computacion e informatica","quantity": 0,"inventoryStatus": "OUTOFSTOCK","rating": 4},
+        {"id": "1006","code": "bib36pfvm","name": "Teclado Gamer","description": "Product Description","image": "teclado.jpg","price": 110,"category": "Computacion e informatica","quantity": 5,"inventoryStatus": "LOWSTOCK","rating": 3},
+        {"id": "1007","code": "mbvjkgip5","name": "Galaxy Earrings","description": "Product Description","image": "galaxy-earrings.jpg","price": 34,"category": "Electronica","quantity": 23,"inventoryStatus": "INSTOCK","rating": 5},
+        {"id": "1008","code": "vbb124btr","name": "Game Controller","description": "Product Description","image": "game-controller.jpg","price": 99,"category": "Electronica","quantity": 2,"inventoryStatus": "LOWSTOCK","rating": 4},
+        {"id": "1009","code": "cm230f032","name": "Gaming Set","description": "Product Description","image": "gaming-set.jpg","price": 299,"category": "Electronica","quantity": 63,"inventoryStatus": "INSTOCK","rating": 3}
+    ]
+}
+    
